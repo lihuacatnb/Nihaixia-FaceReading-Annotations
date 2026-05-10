@@ -11,11 +11,11 @@
 
 ### 2. 项目展示
 
-![image](/others/1.png)
+![image](/1.png)
 
-![image](/others/2.png)
+![image](/2.png)
 
-![image](/others/3.png)
+![image](/3.png)
 
 ---
 
